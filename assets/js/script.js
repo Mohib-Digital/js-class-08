@@ -1,5 +1,43 @@
 // Chapter No.18   (for loop)
 
+// for loop programs
+
+// var myFruitsArray = ["Mango", "Banana", "Peach", "Graphs", "Apricot"]
+
+// for (var myIndex = 0; myIndex < myFruitsArray.length; myIndex++) {
+//     console.log(myFruitsArray[myIndex])
+// }
+
+// =================================================================================
+
+// var myFruitsArray = ["Mango", "Banana", "Peach", "Graphs", "Apricot"];
+// var anyFruitsName = prompt("Enter your correct fruits name:");
+
+
+// for (myIndex = 0; myIndex < myFruitsArray.length; myIndex++) {
+//      if(anyFruitsName === myFruitsArray[myIndex]){
+//         console.log("Yes your fruit name is in the array list");
+//      }
+// }
+
+// ================================================================================
+
+
+// var stationaryArray = ['Pencil', 'Erraser', 'Shopner', 'Calculator', 'Geometry Box']
+
+// for (var index = 0; index < stationaryArray.length; index++) {
+//     console.log(`On index ${index} we have: ` + stationaryArray[index])
+// }
+
+// Output 
+// On index 0 we have: Pencil
+// On index 1 we have: Erraser
+// On index 2 we have: Shopner
+// On index 3 we have: Calculator
+// On index 4 we have: Geometry Box
+
+// ================================================================================
+
 // for loop progams
 
 // for (var i = 1; i <= 10; i++) {
@@ -55,3 +93,5 @@
 // } 
 // console.log(numbers);
 // console.log({sum})
+
+
